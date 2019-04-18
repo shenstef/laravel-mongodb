@@ -1,8 +1,8 @@
 {
-    "name": "jenssegers/mongodb",
+    "name": "shenstef/mongodb",
     "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
     "keywords": ["laravel","eloquent","mongodb","mongo","database","model","moloquent"],
-    "homepage": "https://github.com/jenssegers/laravel-mongodb",
+    "homepage": "https://github.com/shenstef/laravel-mongodb",
     "authors": [
         {
             "name": "Jens Segers",
